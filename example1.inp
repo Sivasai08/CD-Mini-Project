@@ -1,4 +1,4 @@
 A = 1158915
 B= 165861
-C = A+B
-OUT C
+D = A+B
+OUT D
