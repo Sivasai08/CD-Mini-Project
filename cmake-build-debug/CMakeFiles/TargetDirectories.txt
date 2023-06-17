@@ -1,0 +1,3 @@
+D:/Ak Acadmics/Sem 6/CD/CD Mini-Project/cmake-build-debug/CMakeFiles/CD_Mini_Project.dir
+D:/Ak Acadmics/Sem 6/CD/CD Mini-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ak Acadmics/Sem 6/CD/CD Mini-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
